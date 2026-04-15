@@ -1,0 +1,10 @@
+# python3.12
+# Core
+requests>=2.31.0
+faiss-cpu>=1.7.4
+numpy>=1.24.0
+
+# Utilities
+python-dotenv>=1.0.0
+tqdm>=4.66.0
+dotenv==0.9.9
